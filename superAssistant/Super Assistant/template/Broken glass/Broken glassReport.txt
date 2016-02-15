@@ -1,0 +1,68 @@
+Report created: 
+	2014/9/21	8:45:42
+
+Project name: ÆÆËé²£Á§.aep
+
+Source files collected to: 
+	E:\AE project\Ä£°å\ÆÆËé²£Á§ folder
+
+Source files collected: All
+
+Collected comps:  
+	Comp 1
+	texture
+	blurtexture
+	image
+	pieces
+	piece1
+	piece2
+	piece3
+	piece4
+	piece5
+	piece6
+	piece7
+	piece8
+	piece9
+	piece10
+	piece11
+	piece12
+	piece13
+	piece14
+	piece15
+	piece16
+	piece17
+	piece18
+	piece19
+	piece20
+	piece21
+	
+Number of collected files:  2
+
+Size of collected files:  1003 KB
+
+Collected source files: 
+	C:\Users\Public\Pictures\Sample Pictures\Penguins.jpg
+	D:\360°²È«ä¯ÀÀÆ÷ÏÂÔØ\53f65b77ade79e47608c86afe2ba9fad.jpg
+	
+Rendering plug-ins:
+	Advanced 3D
+	
+Effects used:  8
+
+Effect:  Brightness & Contrast
+	
+Effect:  Curves
+	
+Effect:  Fast Blur
+	
+Effect:  Glow
+	
+Effect:  Invert
+	
+Effect:  Slider Control
+	
+Effect:  Tint
+	
+Effect:  Transform
+	
+
